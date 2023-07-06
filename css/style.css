@@ -1,0 +1,110 @@
+#home {
+    margin-top: 50px;
+    background-color: rgba(117, 129, 180, 0.459);
+}
+
+#about {
+    margin-top: 5px;
+    background-color: rgba(117, 129, 180, 0.459);
+
+}
+
+#services {
+    margin-top: 5px;
+    background-color: rgba(62, 71, 114, 0.459);
+
+
+}
+
+#contact {
+    margin-top: 5px;
+}
+
+.about-section-header {
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+
+.service-section-header {
+    font-weight: bolder;
+    font-style: italic;
+    color: rgba(238, 9, 9, 0.966);
+
+
+}
+
+
+#home-title {
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(4, 0, 255)
+}
+
+.service-carosel-button {
+    text-align: center;
+}
+
+.service-card-header {
+    text-align: center;
+    color: rgba(36, 14, 230, 0.884) !important;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.about-card-link {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.about-card-link:hover {
+    text-decoration: none;
+    color: red;
+    font-weight: bolder;
+}
+
+.btn-carosel {
+    background-color: #05ee37;
+}
+
+
+
+.about-card-header {
+    text-align: center;
+    color: rgb(38, 168, 38) !important;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+.about-sub-header {
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(4, 0, 255);
+    text-decoration: underline;
+
+}
+
+a {
+    transition: boxshadow 0.8s;
+
+}
+
+a:hover {
+    box-shadow: 0 0 2px 2px white;
+}
+
+.about-card-para {
+    font-style: normal;
+
+}
+
+
+
+
+p {
+    color: rgba(0, 0, 0, 0.781);
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic
+}
