@@ -2,7 +2,7 @@
 
 First of all thank you for giving this opprtunity to show my skills.
 
-            As a Fresher I am looking for the opportunities where i can show my potentials and skills and constantly to upgrade myself.For
+As a Fresher I am looking for the opportunities where i can show my potentials and skills and constantly to upgrade myself.For
 the development of this website I have used Bootstrap framework and I have used HTML, CSS ,JS to develop this project. I have used many
 concepts to develop this beautiful website like cards, modals, bootstrap forms, responsive design, interactive form, responsive navbar etc.
 
